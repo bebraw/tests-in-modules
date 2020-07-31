@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    [
+      "remove-code",
+      {
+        "function": ["describe"]
+      }
+    ]
+  ]
+}
